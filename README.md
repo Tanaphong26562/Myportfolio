@@ -15,4 +15,4 @@
 - ![image alt](https://github.com/Tanaphong26562/Myportfolio/blob/077d0ff3d78a192f30c0e7918b879454d2d6c7b7/Portfolio%20%20(1).png)
 ## ติดต่อ
 - Email: 14005@wsk.ac.th
-- Github: https://github.com/467108-Natchapon
+- Github: https://github.com/Tanaphong26562
